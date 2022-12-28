@@ -9,9 +9,17 @@ Website yang kita buat ini memiliki fitur admin yang memungkinkan user untuk men
 
 ```bash
 composer require laravel/ui
+```
+```bash
 php artisan ui bootstrap
+```
+```bash
 composer require nesbot/carbon
+```
+```bash
 php artisan ui bootstrap --auth
+```
+```bash
 npm install && npm run build
 ```
 
