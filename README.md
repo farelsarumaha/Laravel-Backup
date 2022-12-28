@@ -7,21 +7,13 @@ Website yang kita buat ini memiliki fitur admin yang memungkinkan user untuk men
 
 ## Instalasi:
 
-- composer require laravel/ui
-- php artisan ui bootstrap
-- composer require nesbot/carbon
-- php artisan ui bootstrap --auth
-- npm install && npm run build
-
-
-## Deployment
-
-To deploy this project run
-
 ```bash
-  npm run deploy
+composer require laravel/ui
+php artisan ui bootstrap
+composer require nesbot/carbon
+php artisan ui bootstrap --auth
+npm install && npm run build
 ```
-
 
 ## License
 
